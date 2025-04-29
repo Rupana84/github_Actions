@@ -15,7 +15,7 @@ public class ControllerTest {
         //act
         int result =controller.add(5,5);
         //assert
-        assertEquals(10,result);
+        assertEquals(100,result);
     }
 
     @Test
